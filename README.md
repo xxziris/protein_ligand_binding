@@ -1,2 +1,2 @@
 # protein_ligand_binding
-To predict protein ligand binding based on atom positions
+[embed]https://github.com/xxziris/protein_ligand_binding/blob/main/BS6207_Project_Report_Xinxin.pdf[/embed]
